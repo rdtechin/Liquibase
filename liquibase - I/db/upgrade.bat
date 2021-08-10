@@ -1,0 +1,1 @@
+liquibase --driver=com.mysql.jdbc.Driver --classpath="C:\Users\aksha\Downloads\software\mysql-java\mysql-connector-java-8.0.26.jar" --changeLogFile=db-changelog.xml --url="jdbc:mysql://127.0.0.1:3306/dating" --username=root --password=test1234 update
